@@ -1,6 +1,10 @@
 # GTA 5 Offline Trainer for PC
 An offline trainer for GTA 5 computer (Native Trainer).
 
+**How to implement the trainer to your game:**
+
+Simply find your GTA5 installation folder and drag everything from the Trainer folder to your installation folder.
+
 
 **Controls:**
 
