@@ -1,7 +1,7 @@
 # GTA 5 Offline Trainer for PC
 An offline trainer for GTA 5 computer (Native Trainer).
 
-Controls:
+*Controls:*
 
 F4 - activate 
 
@@ -16,7 +16,9 @@ NUM9/3 - use vehicle boost when active
 NUM+ - use vehicle rockets when active
 
 
-What it offers:
+
+*What it offers:*
+
 
 -Skinchanger
 
